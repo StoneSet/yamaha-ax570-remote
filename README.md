@@ -1,10 +1,8 @@
-
 # Yamaha AX 570 Amp - IR Remote (VP59040)
 
 ### Recreating a IR Remote only with ir codes found on a web site
 
-<center><img src="
-https://cdn.discordapp.com/attachments/517822276889215018/700707083510874214/df1b693e-214e-11e7-8cee-4f4eb02b2028.jpg" alt="alt" width="250"> </center>
+<center><img src="https://cdn.discordapp.com/attachments/517822276889215018/700714047066210344/amp.jpg" alt="alt" width="250"> </center>
 
 If you have purchase a Yamaha ax 570 amp without the remote, no panic ! With this repo, you will be able to recreate a remote for your amp !
 
@@ -36,7 +34,8 @@ If you have purchase a Yamaha ax 570 amp without the remote, no panic ! With thi
 ## End result
 <img 
 src="https://cdn.discordapp.com/attachments/517822276889215018/700693123319201873/IMG_1598.JPG" alt="alt" width="300"><img 
-src="https://cdn.discordapp.com/attachments/517822276889215018/700706837380726874/IMG_1599.JPG" alt="alt" width="300">
+src="https://cdn.discordapp.com/attachments/517822276889215018/700706837380726874/IMG_1599.JPG" alt="alt" width="300"><img 
+src="https://cdn.discordapp.com/attachments/517822276889215018/700714030318485514/IMG_1600.JPG" alt="alt" width="300">
 
 #
 (c) @StoneSet - http://stoneset.fr/ (2019)
